@@ -1,0 +1,16 @@
+#titulo{
+    background-image: url("img/geo.png");
+    background-size: 100% 100%;
+    }
+#texto{
+    color: black;
+    text-align: right;
+}
+#thumb1{
+    background-image: url("img/foto.webp");
+}
+#thumb2{
+    background-image: url("img/th.jpg");
+    background-size: 50%;
+    
+}
