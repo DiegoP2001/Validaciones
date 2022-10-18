@@ -1,6 +1,17 @@
 body {
-    background-image: url("img/database.jpg");
+    background-image: url("img/sss.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
   
     
+}
+#a1{
+    color: white;
+}
+.container{
+    text-align: left;
+    
+}
+.fst-italic{
+    color: black;
 }
